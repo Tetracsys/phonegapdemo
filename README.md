@@ -1,0 +1,4 @@
+phonegapdemo
+============
+
+Test Phonegap deployment
